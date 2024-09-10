@@ -1,0 +1,29 @@
+.form-title {
+    text-align: center;
+    margin-top: 50px;
+
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+
+  .Aishu{
+    border: solid 1px black;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+    margin-top: 20px;
+  }
+
+  .from-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: aquamarine;
+  }
